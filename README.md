@@ -1,8 +1,8 @@
-**1. Project Title / Headline**
+**1. Project Title**
 
 Technology Budget & Performance Analysis Dashboard | Power BI Business Intelligence Project
 
-**2. Short Description / Purpose**
+**2.Purpose**
 
 This project presents an interactive Power BI dashboard designed to analyze technology budgets, forecast performance, and financial variance across business areas, IT functions, cost elements, and countries.
 
@@ -24,7 +24,7 @@ The dashboard enables stakeholders to monitor Plan vs Actual vs Forecast perform
 
 Dataset provided by Maven Analytics.
 
-**5. Features / Highlights**
+**5. Features** 
 
 **5.1 Business Problem**
 
